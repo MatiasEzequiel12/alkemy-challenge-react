@@ -1,5 +1,5 @@
 # Proyecto creado challenge alkemy
-Ingreso aplicacion sistema logeo:
+Ingreso aplicación sistema logeo:
 
 usuario:challenge@alkemy.org
 pass: react
