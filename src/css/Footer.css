@@ -1,0 +1,19 @@
+.text-color-light{color:rgb(105, 100, 100);}
+
+.bg-color1{background-color: rgb(31, 22, 22);}
+
+
+.footer-container{
+    display:inline-block;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    padding: 1em 1em 1em 1em;
+    margin: 0;
+
+}
+.footer-container__center-text{
+    text-align: center;
+    font-size: 1.2em;
+}
